@@ -1,4 +1,4 @@
-# Eraser Map
+# Eraser Map app
 Privacy-focused mapping application for Android
 
 ## Install Dependencies
